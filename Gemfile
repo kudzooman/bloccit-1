@@ -19,4 +19,7 @@ end
 
 gem 'jquery-rails'
 
+gem 'newrelic_rpm'
+gem 'jquery-rails'
 gem 'faker'
+gem  'devise'
