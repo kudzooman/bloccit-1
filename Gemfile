@@ -17,8 +17,6 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails'
-
 gem 'newrelic_rpm'
 gem 'jquery-rails'
 gem 'faker'
@@ -29,3 +27,4 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
 gem 'figaro'
+gem 'will_paginate', '~> 3.0'
